@@ -1,0 +1,7 @@
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\bin\Debug\Csharp1.exe.config
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\bin\Debug\Csharp1.exe
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\bin\Debug\Csharp1.pdb
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\obj\Debug\Csharp1.csprojAssemblyReference.cache
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\obj\Debug\Csharp1.csproj.CoreCompileInputs.cache
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\obj\Debug\Csharp1.exe
+D:\Prpjects\VisualStudio2017\C#\Csharp1\Csharp1\obj\Debug\Csharp1.pdb
